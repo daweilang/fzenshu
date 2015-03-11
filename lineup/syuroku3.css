@@ -1,0 +1,79 @@
+@charset "Shift_JIS";
+
+body,td,th {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	color: #000000;
+	font-size: 12px;
+	line-height: 21px;
+}
+
+a:link {
+	color: #000000;
+}
+a:visited {
+	color: #01217a;
+}
+a:hover {
+	color: #ff0000;
+	text-decoration: underline;
+}
+	
+
+.zentitle {
+	font-size: 12px;
+	line-height: 17px;
+	color: #000000;
+}
+
+.kakaku {
+	font-size: 12px;
+	line-height: 16px;
+	color: #000000;
+}
+
+.mane {
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+}
+
+.hatsubai {
+	font-size: 12px;
+	line-height: 17px;
+	color: #FFFFFF;
+}
+
+.hatsubai02 {
+	font-size: 12px;
+	line-height: 17px;
+	color: #999999;
+}
+
+.copyright {
+	font-size: 11px;
+	line-height: 15px;
+	color: #000000;
+}
+
+.chui {
+	font-size: 11px;
+	line-height: 15px;
+	color: #FFFFFF;
+}
+
+.hakkankinen {
+	font-family: "‚l‚r ‚oƒSƒVƒbƒN", Osaka, "ƒqƒ‰ƒMƒmŠpƒS Pro W3";
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.text1404a {
+	font-size: 9px;
+	color: #000000;
+}
+.text140425a {
+	font-size: 14px;
+	color: #FF0000;
+}
+

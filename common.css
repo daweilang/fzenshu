@@ -1,0 +1,20 @@
+@charset "Shift_JIS";
+
+html{
+	overflow-y: scroll;
+}
+body {
+	background-color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	font-family: ‚l‚r ‚oƒSƒVƒbƒN, Osaka, ƒqƒ‰ƒMƒmŠpƒS Pro W3;
+}
+.cr {
+	font-size: 10px;
+	line-height: 12px;
+	color: #666666;
+}

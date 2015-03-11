@@ -1,0 +1,42 @@
+#flashcontent {
+	width:100%;
+	height:100%;
+	text-align:center;
+	position:relative;
+	background-color: #FFFFFF;
+}
+html,body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	height:100%;
+}
+.copyrights {
+	font-size: 10px;
+	line-height: 12px;
+	color: #999999;
+}
+.footer {
+	font-size: 12px;
+	line-height: 14px;
+	color: #999999;
+}
+a.txtlink:link{
+	color:#005AE3;
+	text-decoration: none;
+}
+a.txtlink:visited{
+	color:#6699FF;
+	text-decoration: none;
+}
+a.txtlink:hover{
+	color:#0000FF;
+	text-decoration: underline;
+	background-color: #CCFFFF;
+}
+a.txtlink:active{
+	color:#7172ff;
+	text-decoration: underline;
+	background-color: #e2ffff;
+}

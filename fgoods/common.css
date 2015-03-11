@@ -1,0 +1,41 @@
+@charset "Shift_JIS";
+
+html{
+	overflow-y: scroll;
+}
+body {
+	background-color: #F9F02F;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	font-family: ‚l‚r ‚oƒSƒVƒbƒN, Osaka, ƒqƒ‰ƒMƒmŠpƒS Pro W3;
+}
+.title {
+	font-size: 14px;
+	line-height: 24px;
+	color: #f7931e;
+}
+.name {	
+	font-size: 13px;
+	line-height: 21px;
+	color: #000000;
+}
+.name02 {
+	font-size: 14px;
+	line-height: 27px;
+	color: #000000;
+	font-weight: bold;
+}
+.name02red {	
+	font-size: 14px;
+	line-height: 27px;
+	color: #e60012;
+}
+.cap {	
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+}

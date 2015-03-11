@@ -1,0 +1,126 @@
+@charset "Shift_JIS";
+
+html{
+	overflow-y: scroll;
+}
+body {
+	background-color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	font-family: ‚l‚r ‚oƒSƒVƒbƒN, Osaka, ƒqƒ‰ƒMƒmŠpƒS Pro W3;
+}
+.cr {
+	font-size: 10px;
+	line-height: 12px;
+	color: #d1cfcf;
+}
+.text1209a {
+	font-size: 14px;
+	line-height: 24px;
+	color: #ffffff;
+}
+.text1209b {
+	font-size: 13px;
+	line-height: 21px;
+	color: #ffffff;
+}
+.text1209c {
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+}
+.text1209d {
+	font-size: 13px;
+	line-height: 19px;
+	color: #000000;
+}
+a:link {
+	color: #F00;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #F00;
+	text-decoration: underline;
+}
+a:hover {
+	color: #000;
+	text-decoration: underline;
+
+}
+.text1211a {
+	font-size: 13px;
+	line-height: 19px;
+	color: #000000;
+
+}
+.text1211b {
+	font-size: 12px;
+	line-height: 14px;
+	color: #ffffff;
+	
+}
+.text1211c {
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+}
+
+.text1211d {
+	font-size: 14px;
+	line-height: 18px;
+	color: #ffffff;
+}
+
+.text1220a {
+	font-size: 10px;
+	line-height: 16px;
+	color: #000000;
+}
+.text1220b {
+	font-size: 10px;
+	line-height: 14px;
+	color: #ffffff;
+}
+.text1220c {
+	font-size: 10px;
+	line-height: 12px;
+	color: #000000;
+}
+.text1220d {
+	font-size: 12px;
+	line-height: 14px;
+	color: #000000;
+}
+.text1220e {
+	font-size: 10px;
+	line-height: 12px;
+	color: #ffffff;
+}
+.text1220F {
+	font-size: 16px;
+	line-height: 24px;
+	color: #ff0000;
+}
+.nonFlashHead {
+	background-image: url(img/headbg.gif);
+	background-repeat: repeat-x;
+	background-position: center top;
+}
+.text0122a {
+	font-size: 11px;
+	line-height: 16px;
+	color: #000000;
+}
+.text0122b {
+	font-size: 13px;
+	color: #000000;
+}
+.text1404a {
+	font-size: 9px;
+	color: #000000;
+}
